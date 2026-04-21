@@ -1,16 +1,15 @@
 ### Hi there, I'm Berat 👋
 
-I am a **Software Developer** & **Founder** based in Istanbul, Turkey. I specialize in **Data Analytics** and **Artificial Intelligence**, leveraging these skills to build next-generation e-commerce solutions.
+I am a **Software Engineer**.
 
-I have a strong passion for entrepreneurship and innovation, currently scaling my startup while continuing my academic journey in Computer Engineering.
+- 🎓 **Education:** **Boğaziçi University** (Data Analysis and Artificial Intelligence) & **Dicle University** (Computer Programming)
+- 💼 **Experience:** **Galatasaray University** & **Galatasaray High School**
 
-- 🔭 I’m the Founder of **[Bluversea](https://bluversea.com)**, an AI-powered e-commerce marketplace designed to make shopping smarter and more accessible.
-  - *Achieved organic traffic from **20+ countries** (🇺🇸 USA, 🇹🇷 Turkey, 🇨🇭 Switzerland, etc.) in just a few weeks.*
-  - *Applied for **Y Combinator Winter 2026**.* 🚀
-- 🏛️ I have been working at **Galatasaray University** for over 2 years.
-- 🎓 Studying **Computer Engineering** at **Boğaziçi University** (Focus on Data Science & AI) and **Computer Programming** at **Dicle University**.
-- 📊 Certified in **Google Data Analytics** and Financial Literacy.
-- 🌐 Check out my personal website: **[beratboga.com](https://beratboga.com)**
+### 🚀 Projects
+
+- 🔭 **[Bluversea](https://beratboga.github.io/Bluversea/)** - AI-supported e-commerce site
+- 📊 **[Voiddatai](https://beratboga.github.io/voiddatai.com-web/)** - Data labeling and data preparation
+- 🎮 **[Blux Games](https://beratboga.github.io/Blux-Games/)** - Hybrid-casual mobile game studio
 
 ---
 
